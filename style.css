@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://img.freepik.com/free-photo/stunning-landscape-with-sunrise-clouds_181624-29153.jpg?w=740&t=st=1715074134~exp=1715074734~hmac=9a0802b035d3ee8497a5be0ec8c5941c0d943385efaa25767ceb28e1e7eb8c2e); 
+    background-image: url(./img/DAY.avif);
     background-repeat: no-repeat;
     margin: 0;
     padding: 0;
@@ -21,7 +21,7 @@ label {
     height: 100px;
     position: relative;
     display: block;
-    background: url(https://img.freepik.com/free-photo/stunning-landscape-with-sunrise-clouds_181624-29153.jpg?w=740&t=st=1715074134~exp=1715074734~hmac=9a0802b035d3ee8497a5be0ec8c5941c0d943385efaa25767ceb28e1e7eb8c2e);
+    background: url(./img/DAY.avif);
     object-fit: cover;
     overflow: hidden;
     border-radius: 200px;
@@ -50,7 +50,7 @@ label::after {
 input:checked+label {
     object-fit: cover;
     overflow: hidden;
-    background: url(https://img.freepik.com/free-photo/silhouettes-hills-street-lamps-cloudy-sky-beautiful-sunset_181624-28611.jpg?t=st=1715074232~exp=1715077832~hmac=05066af58d25d526df354a48b976b929794ae4a3568dac68f06e76f500ab7ebf&w=740);
+    background: url(./img/NIGHT.avif);
 }
 
 input:checked+label::after {
